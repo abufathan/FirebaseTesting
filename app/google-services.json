@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "949066575844",
+    "firebase_url": "https://learn-project-noval.firebaseio.com",
+    "project_id": "learn-project-noval",
+    "storage_bucket": "learn-project-noval.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949066575844:android:cd91f8bcd2c14549",
+        "android_client_info": {
+          "package_name": "com.testing.firebasetesting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949066575844-9pvrj5sco3u077fn219glcdcdh80oeb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMqTe1O2ZlBN_V2eqRiv25Ad9XMWoYRKo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
